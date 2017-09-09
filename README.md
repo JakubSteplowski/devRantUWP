@@ -1,3 +1,4 @@
+![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
 # Official devRant unofficial Issue Tracker
 If you found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
 
