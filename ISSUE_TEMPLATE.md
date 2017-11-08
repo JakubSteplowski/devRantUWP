@@ -27,7 +27,7 @@
 
     #pragma region Screenshots/videos
       // Eventual space for screenshots/videos
-    #pragma enderegion
+    #pragma endregion
   } 
   else if (typeOf(this) == issues::FeatureRequest)
   {
@@ -45,7 +45,7 @@
     
     #pragma region Screenshots/videos
       // Eventual space for screenshots/videos
-    #pragma enderegion
+    #pragma endregion
   }
   else
   {
