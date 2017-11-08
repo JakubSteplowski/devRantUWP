@@ -10,7 +10,7 @@
     //
     
     #pragma region Version_of_the_app:
-      //ex. v2.0.0-beta2
+      // ex. v2.0.0-beta2
     #pragma endregion
 
     #pragma region Device_type
