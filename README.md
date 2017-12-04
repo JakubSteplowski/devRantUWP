@@ -18,20 +18,20 @@ Thanks in advance! :)
 
 Platform | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta6** | v2.0.0-beta7 | December 2017
+Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta7** | v2.0.0-beta8 | 2018
 Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v2.0.0-beta8 | 2018
 Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 # Releases log
 ```
-Total Releases: 53 (+2 in development)
+Total Releases: 54 (+1)
 Stable: 36
-Public Beta: 10
+Public Beta: 11
 Closed Beta: 7
-In Development: 2
+In Development: 1
 
 v2.0.0-beta8      // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
-v2.0.0-beta7      // xx.12.2017 PUBLIC BETA <- IN DEVELOPMENT
+v2.0.0-beta7      // 04.12.2017 PUBLIC BETA
 v1.5.12           // 15.11.2017
 v2.0.0-beta6      // 15.11.2017 PUBLIC BETA
 v2.0.0-beta5      // 14.11.2017 PUBLIC BETA
