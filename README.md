@@ -24,15 +24,26 @@ Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | 
 
 # Releases log
 ```
+////////////////////
 Total Releases: 54 (+1)
 Stable: 36
 Public Beta: 11
 Closed Beta: 7
 In Development: 1
+////////////////////
 
+////////////////////
+// RELEASES LIST  //
+////////////////////
+// NEWER -> OLDER //
+////////////////////
+
+//////////////////// 
+...               //
 v2.0.0-beta8      // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
 //  === 2018 ===  // ^
 
+//////////////////// 34 RELEASES IN 2017
 v2.0.0-beta7      // 04.12.2017 PUBLIC BETA
 v1.5.12           // 15.11.2017
 v2.0.0-beta6      // 15.11.2017 PUBLIC BETA
@@ -69,6 +80,7 @@ v1.3.13           // 19.04.2017
 v1.3.12           // 10.01.2017
 //  === 2017 ===  // ^
 
+//////////////////// 20 RELEASES IN 2016
 v1.3.11           // 30.12.2016
 v1.3.10           // 28.12.2016
 v1.3.9            // 28.12.2016
