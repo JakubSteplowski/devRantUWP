@@ -45,7 +45,7 @@ Windows 10 builds: First Release (10240), November Update (10586), Anniversary U
 
 # Changelog
 
-You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/devRantUnofficial/release-notes/), but also in the About section of the app.
+You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/devRantUnofficial/release-notes/), but also in the `about` section of the app.
 
 # Releases log
 ```
