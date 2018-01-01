@@ -22,6 +22,31 @@ Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta7** | 
 Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v2.0.0-beta8 | 2018
 Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
+# Requirements
+
+**Device:**<br>
+PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
+
+**OS:**<br>
+Windows 10 builds 15063, 16299+ (**v2.0.0-beta7**)<br>
+Windows 10 builds 10240, 10586, 14393`*` (**v1.5.12**)<br>
+
+**Other:**<br>
+Internet Connection<br>
+Touch Screen (recommended`**`, not required)<br>
+
+***
+
+`*`in a future update v2 will be compatible also with Anniversary Update (14393).<br><br>
+`**`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
+Windows 10 builds: First Release (10240), November Update (10586), Anniversary Update (14393), Creators Update (15063), Fall Creators Update (16299).
+
+***
+
+# Changelog
+
+You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/devRantUnofficial/release-notes/), but also in the About section of the app.
+
 # Releases log
 ```
 ////////////////////
