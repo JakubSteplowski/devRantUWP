@@ -7,7 +7,7 @@ If you found a **bug** or want to request a new **feature** for devRant unoffici
 
 For **bug reports**, please provide:
 - Version of the app
-- Device type (desktop, mobile, holographics)
+- Device type (desktop, mobile, hololens, xbox one)
 - Version of the OS
 - Clear steps (if known) to reproduce the issue
 - A screenshot (if available)
