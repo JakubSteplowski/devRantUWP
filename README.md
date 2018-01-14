@@ -37,7 +37,7 @@ Touch Screen (recommended`**`, not required)<br>
 
 ***
 
-`*`in a future update v2 will be compatible also with Anniversary Update (14393).<br><br>
+`*`in a future update v2 will be compatible also on Anniversary Update (14393).<br><br>
 `**`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
 Windows 10 builds: First Release (10240), November Update (10586), Anniversary Update (14393), Creators Update (15063), Fall Creators Update (16299).
 
