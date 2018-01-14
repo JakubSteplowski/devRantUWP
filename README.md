@@ -19,8 +19,8 @@ Thanks in advance! :)
 Platform | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
 Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta7** | v2.0.0-beta8 | 2018
-Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v2.0.0-beta8 | 2018
-Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
+Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v1.5.13 | Feb/Mar 2018
+Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | v1.5.13 | Feb/Mar 2018
 
 # Requirements
 
@@ -50,11 +50,11 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 54 (+1)
+Total Releases: 55 (+2)
 Stable: 36
 Public Beta: 11
 Closed Beta: 7
-In Development: 1
+In Development: 2
 ////////////////////
 
 ////////////////////
@@ -66,6 +66,7 @@ In Development: 1
 //////////////////// 
 ...               //
 v2.0.0-beta8      // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
+v1.5.13           // xx.xx.2018 <- IN DEVELOPMENT
 //  === 2018 ===  // ^
 
 //////////////////// 34 RELEASES IN 2017
