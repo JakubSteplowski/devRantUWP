@@ -50,9 +50,9 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 55 (+2)
-Stable: 36
-Public Beta: 11
+Total Releases: 54 (+2)
+Stable: 36 (+1)
+Public Beta: 11 (+1)
 Closed Beta: 7
 In Development: 2
 ////////////////////
