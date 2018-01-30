@@ -1,7 +1,7 @@
 ![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
 # Official devRant unofficial UWP Issue Tracker
-![](https://img.shields.io/badge/Open-16-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-12-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-2-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-2-b60205.svg?style=flat) <br>
-![](https://img.shields.io/badge/Closed-25-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-9-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-0-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-10-b60205.svg?style=flat)
+![](https://img.shields.io/badge/Open-15-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-11-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-2-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-2-b60205.svg?style=flat) <br>
+![](https://img.shields.io/badge/Closed-26-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-9-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-1-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-10-b60205.svg?style=flat)
 
 If you found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
 
