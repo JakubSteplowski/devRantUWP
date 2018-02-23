@@ -14,13 +14,41 @@ For **bug reports**, please provide:
 
 Thanks in advance! :)
 
-# Platforms
+# Versions
 
-Platform | Current | In Development | ETA
+OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
 Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta8** | v2.0.0-beta9 | 2018
 Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v2.0.0-beta9 | 2018
 Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
+
+### Builds in the Store
+
+Each package in the store has different build numbers (based on Platform and OS Version) than the official app version you see in the about section.<br>
+You can easily recognize the version you're using by looking at the table below.
+
+Version | Platform | OS Version | Build
+------------ | ------------ | ------------ | ------------
+v2.0.0-beta8 | UWP | 15063+ | v2.0.80.0
+v2.0.0-beta8 | Xbox One | 15063+ | v2.0.80.70
+v1.5.12 | UWP | 14393- | v1.5.12.0
+v1.5.12 | Xbox One | 14393- | v1.5.12.70
+
+### Upcoming builds
+
+With the support for Anniversary Update, v2 builds will have a different build number based on the supported OS Version.
+
+Version | Platform | OS Version | Build
+------------ | ------------ | ------------ | ------------
+v2.0.0-beta9 | UWP | 15063+ | v2.0.91.0
+v2.0.0-beta9 | Xbox One | 15063+ | v2.0.91.70
+v2.0.0-beta9 | UWP | 14393 | v2.0.90.0
+v2.0.0-beta9 | Xbox One | 14393 | v2.0.90.70
+... | ... | ... | ...
+v2.0.0 | UWP | 15063+ | v2.0.1001.0
+v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
+v2.0.0 | UWP | 14393 | v2.0.1000.0
+v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 
 # Requirements
 
