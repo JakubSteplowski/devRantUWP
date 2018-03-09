@@ -1,7 +1,7 @@
 ![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
 # Official devRant unofficial UWP Issue Tracker
-![](https://img.shields.io/badge/Open-18-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-11-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-3-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-4-b60205.svg?style=flat) <br>
-![](https://img.shields.io/badge/Closed-30-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-9-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-2-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-10-b60205.svg?style=flat)
+![](https://img.shields.io/badge/Open-17-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-11-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-3-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-3-b60205.svg?style=flat) <br>
+![](https://img.shields.io/badge/Closed-31-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-9-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-2-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-11-b60205.svg?style=flat)
 
 If you found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
 
@@ -18,8 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Creators Update<br>and newer<br>(15063, 16299+) | **v2.0.0-beta8** | v2.0.0-beta9 | 2018
-Windows 10 Anniversary Update<br>(14393) | **v1.5.12** | v2.0.0-beta9 | 2018
+Windows 10 Anniversary Update<br>and newer<br>(14393, 15063, 16299+) | **v2.0.0-beta9** | N/A | N/A
 Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -29,21 +28,17 @@ You can easily recognize the version you're using by looking at the table below.
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta8 | UWP | 15063+ | v2.0.80.0
-v2.0.0-beta8 | Xbox One | 15063+ | v2.0.80.70
-v1.5.12 | UWP | 14393- | v1.5.12.0
-v1.5.12 | Xbox One | 14393- | v1.5.12.70
-
-### Upcoming builds
-
-With the support for Anniversary Update, v2 builds will have a different build number based on the supported OS Version.
-
-Version | Platform | OS Version | Build
------------- | ------------ | ------------ | ------------
 v2.0.0-beta9 | UWP | 15063+ | v2.0.91.0
 v2.0.0-beta9 | Xbox One | 15063+ | v2.0.91.70
 v2.0.0-beta9 | UWP | 14393 | v2.0.90.0
 v2.0.0-beta9 | Xbox One | 14393 | v2.0.90.70
+v1.5.12 | UWP | 10586- | v1.5.12.0
+v1.5.12 | Xbox One | 10586- | v1.5.12.70
+
+### Upcoming builds
+
+Version | Platform | OS Version | Build
+------------ | ------------ | ------------ | ------------
 ... | ... | ... | ...
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
@@ -56,17 +51,16 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 15063, 16299+ (**v2.0.0-beta8**)<br>
-Windows 10 builds 10240, 10586, 14393`*` (**v1.5.12**)<br>
+Windows 10 builds 14393, 15063, 16299+ (**v2.0.0-beta9**)<br>
+Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
 
 **Other:**<br>
 Internet Connection<br>
-Touch Screen (recommended`**`, not required)<br>
+Touch Screen (recommended`*`, not required)<br>
 
 ***
 
-`*`in a future update v2 will be compatible also with Anniversary Update (14393).<br><br>
-`**`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
+`*`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
 Windows 10 builds: First Release (10240), November Update (10586), Anniversary Update (14393), Creators Update (15063), Fall Creators Update (16299).
 
 ***
@@ -78,9 +72,9 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 55 (+1)
+Total Releases: 56
 Stable: 36
-Public Beta: 12 (+1)
+Public Beta: 13
 Closed Beta: 7
 In Development: 2
 ////////////////////
@@ -93,7 +87,7 @@ In Development: 2
 
 //////////////////// 
 ...               //
-v2.0.0-beta9      // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
+v2.0.0-beta9      // 09.03.2018 PUBLIC BETA
 v2.0.0-beta8      // 12.02.2018 PUBLIC BETA
 //  === 2018 ===  // ^
 
