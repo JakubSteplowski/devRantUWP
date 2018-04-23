@@ -18,8 +18,8 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and newer<br>(14393, 15063, 16299, 17133+) | **v2.0.0-beta9** | v2.0.0-beta10 | 2018
-Windows 10 November Update<br>and older<br>(10240, 10586) | **v1.5.12** | N/A | N/A
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17133+) | **v2.0.0-beta10** | v2.0.0-beta11 | April 2018
+Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
 
@@ -28,10 +28,10 @@ You can easily recognize the version you're using by looking at the table below.
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta9 | UWP | 15063+ | v2.0.91.0
-v2.0.0-beta9 | Xbox One | 15063+ | v2.0.91.70
-v2.0.0-beta9 | UWP | 14393 | v2.0.90.0
-v2.0.0-beta9 | Xbox One | 14393 | v2.0.90.70
+v2.0.0-beta10 | UWP | 15063+ | v2.0.101.0
+v2.0.0-beta10 | Xbox One | 15063+ | v2.0.101.70
+v2.0.0-beta10 | UWP | 14393 | v2.0.100.0
+v2.0.0-beta10 | Xbox One | 14393 | v2.0.100.70
 v1.5.12 | UWP | 10586- | v1.5.12.0
 v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
@@ -39,10 +39,10 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta10 | UWP | 15063+ | v2.0.101.0
-v2.0.0-beta10 | Xbox One | 15063+ | v2.0.101.70
-v2.0.0-beta10 | UWP | 14393 | v2.0.100.0
-v2.0.0-beta10 | Xbox One | 14393 | v2.0.100.70
+v2.0.0-beta11 | UWP | 15063+ | v2.0.111.0
+v2.0.0-beta11 | Xbox One | 15063+ | v2.0.111.70
+v2.0.0-beta11 | UWP | 14393 | v2.0.110.0
+v2.0.0-beta11 | Xbox One | 14393 | v2.0.110.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -54,7 +54,7 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 14393, 15063, 16299, 17133+ (**v2.0.0-beta9**)<br>
+Windows 10 builds 14393, 15063, 16299, 17133+ (**v2.0.0-beta10**)<br>
 Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
 
 **Other:**<br>
@@ -75,7 +75,7 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 56 (+2)
+Total Releases: 57 (+2)
 Stable: 36 (+1)
 Public Beta: 13 (+1)
 Closed Beta: 7
@@ -91,7 +91,8 @@ In Development: 2
 //////////////////// 
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
-v2.0.0-beta10     // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
+v2.0.0-beta11     // xx.xx.2018 PUBLIC BETA <- IN DEVELOPMENT
+v2.0.0-beta10     // 22.04.2018 PUBLIC BETA
 v2.0.0-beta9      // 09.03.2018 PUBLIC BETA
 v2.0.0-beta8      // 12.02.2018 PUBLIC BETA
 //  === 2018 ===  // ^
