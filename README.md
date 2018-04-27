@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17133+) | **v2.0.0-beta11** | v2.0.0 | 2018
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta11** | v2.0.0 | 2018
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -50,7 +50,7 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 14393, 15063, 16299, 17133+ (**v2.0.0-beta11**)<br>
+Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta11**)<br>
 Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
 
 **Other:**<br>
@@ -60,7 +60,13 @@ Touch Screen (recommended`*`, not required)<br>
 ***
 
 `*`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
-Windows 10 builds: First Release (10240), November Update (10586), Anniversary Update (14393), Creators Update (15063), Fall Creators Update (16299), Spring Creators Update (17133).
+Windows 10 builds:
+- First Release (10240)
+- November Update (10586)
+- Anniversary Update (14393)
+- Creators Update (15063)
+- Fall Creators Update (16299)
+- April 2018 Update (17134)
 
 ***
 
