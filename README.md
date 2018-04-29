@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta11** | v2.0.0 | 2018
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta11** | v2.0.0-beta12 | April 2018
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -39,6 +39,10 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
+v2.0.0-beta12 | UWP | 15063+ | v2.0.121.0
+v2.0.0-beta12 | Xbox One | 15063+ | v2.0.121.70
+v2.0.0-beta12 | UWP | 14393 | v2.0.120.0
+v2.0.0-beta12 | Xbox One | 14393 | v2.0.120.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -50,7 +54,7 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta11**)<br>
+Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta12**)<br>
 Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
 
 **Other:**<br>
@@ -77,8 +81,8 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 58 (+1)
-Stable: 36 (+1)
+Total Releases: 59 (+1)
+Stable: 37 (+1)
 Public Beta: 15
 Closed Beta: 7
 ////////////////////
@@ -92,6 +96,7 @@ Closed Beta: 7
 //////////////////// 
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
+v2.0.0-beta12     // 29.04.2018 PUBLIC BETA
 v2.0.0-beta11     // 23.04.2018 PUBLIC BETA
 v2.0.0-beta10     // 22.04.2018 PUBLIC BETA
 v2.0.0-beta9      // 09.03.2018 PUBLIC BETA
