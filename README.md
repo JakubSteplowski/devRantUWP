@@ -82,8 +82,8 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 ```
 ////////////////////
 Total Releases: 60 (+1)
-Stable: 38 (+1)
-Public Beta: 15
+Stable: 36 (+1)
+Public Beta: 17
 Closed Beta: 7
 ////////////////////
 
