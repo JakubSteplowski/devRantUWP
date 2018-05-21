@@ -1,6 +1,6 @@
 ![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
 # Official devRant unofficial UWP Issue Tracker
-![](https://img.shields.io/badge/Open-14-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-7-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-2-b60205.svg?style=flat) <br>
+![](https://img.shields.io/badge/Open-15-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-7-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-3-b60205.svg?style=flat) <br>
 ![](https://img.shields.io/badge/Closed-35-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-9-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-4-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-11-b60205.svg?style=flat)
 
 If you found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
@@ -39,6 +39,10 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
+v2.0.0-beta14 | UWP | 15063+ | v2.0.141.0
+v2.0.0-beta14 | Xbox One | 15063+ | v2.0.141.70
+v2.0.0-beta14 | UWP | 14393 | v2.0.140.0
+v2.0.0-beta14 | Xbox One | 14393 | v2.0.140.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -77,9 +81,9 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 60 (+1)
+Total Releases: 61 (+1)
 Stable: 36 (+1)
-Public Beta: 17
+Public Beta: 18
 Closed Beta: 7
 ////////////////////
 
@@ -92,6 +96,7 @@ Closed Beta: 7
 //////////////////// 
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
+v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
 v2.0.0-beta13     // 05.05.2018 PUBLIC BETA
 v2.0.0-beta12     // 03.05.2018 PUBLIC BETA
 v2.0.0-beta11     // 23.04.2018 PUBLIC BETA
