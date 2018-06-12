@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta14** | v2.0.0 | 2018
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta14** | v2.0.0-beta15 | 2018
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -39,6 +39,10 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
+v2.0.0-beta15 | UWP | 15063+ | v2.0.151.0
+v2.0.0-beta15 | Xbox One | 15063+ | v2.0.151.70
+v2.0.0-beta15 | UWP | 14393 | v2.0.150.0
+v2.0.0-beta15 | Xbox One | 14393 | v2.0.150.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -77,9 +81,9 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 61 (+1)
+Total Releases: 61 (+2)
 Stable: 36 (+1)
-Public Beta: 18
+Public Beta: 18 (+1)
 Closed Beta: 7
 ////////////////////
 
@@ -92,6 +96,7 @@ Closed Beta: 7
 //////////////////// 
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
+v2.0.0-beta15     // xx.xx.2018 <- IN DEVELOPMENT
 v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
 v2.0.0-beta13     // 05.05.2018 PUBLIC BETA
 v2.0.0-beta12     // 03.05.2018 PUBLIC BETA
