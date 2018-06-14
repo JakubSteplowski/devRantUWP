@@ -93,7 +93,7 @@ Closed Beta: 7
 // NEWER -> OLDER //
 ////////////////////
 
-//////////////////// 
+//////////////////// 7 RELEASES IN 2018 SO FAR
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
 -- END OF BETA -- //
