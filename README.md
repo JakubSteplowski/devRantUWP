@@ -98,7 +98,7 @@ Closed Beta: 7
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
 -- END OF BETA -- //
       ...         // Unknown number of beta builds
-v2.0.0-beta15     // 15.07.2018 <- IN DEVELOPMENT
+v2.0.0-beta15     // 15.07.2018 PUBLIC BETA
 v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
 v2.0.0-beta13     // 05.05.2018 PUBLIC BETA
 v2.0.0-beta12     // 03.05.2018 PUBLIC BETA
