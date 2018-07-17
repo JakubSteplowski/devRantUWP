@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta14** | v2.0.0-beta15 | July 2018
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta15** | TBA | TBA
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -28,10 +28,10 @@ You can easily recognize the version you're using by looking at the table below.
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta14 | UWP | 15063+ | v2.0.141.0
-v2.0.0-beta14 | Xbox One | 15063+ | v2.0.141.70
-v2.0.0-beta14 | UWP | 14393 | v2.0.140.0
-v2.0.0-beta14 | Xbox One | 14393 | v2.0.140.70
+v2.0.0-beta15 | UWP | 15063+ | v2.0.151.0
+v2.0.0-beta15 | Xbox One | 15063+ | v2.0.151.70
+v2.0.0-beta15 | UWP | 14393 | v2.0.150.0
+v2.0.0-beta15 | Xbox One | 14393 | v2.0.150.70
 v1.5.12 | UWP | 10586- | v1.5.12.0
 v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
@@ -39,10 +39,6 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta15 | UWP | 15063+ | v2.0.151.0
-v2.0.0-beta15 | Xbox One | 15063+ | v2.0.151.70
-v2.0.0-beta15 | UWP | 14393 | v2.0.150.0
-v2.0.0-beta15 | Xbox One | 14393 | v2.0.150.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -54,7 +50,7 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta14**)<br>
+Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta15**)<br>
 Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
 
 **Other:**<br>
@@ -93,7 +89,7 @@ Closed Beta: 7
 // NEWER -> OLDER //
 ////////////////////
 
-//////////////////// 7 RELEASES IN 2018 SO FAR
+//////////////////// 8 RELEASES IN 2018 SO FAR
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
 -- END OF BETA -- //
