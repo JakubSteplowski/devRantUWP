@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta15** | v2.0.0-beta16 | 08.2018
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta16** | TBA | TBA
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -28,10 +28,10 @@ You can easily recognize the version you're using by looking at the table below.
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta15 | UWP | 15063+ | v2.0.151.0
-v2.0.0-beta15 | Xbox One | 15063+ | v2.0.151.70
-v2.0.0-beta15 | UWP | 14393 | v2.0.150.0
-v2.0.0-beta15 | Xbox One | 14393 | v2.0.150.70
+v2.0.0-beta16 | UWP | 15063+ | v2.0.161.0
+v2.0.0-beta16 | Xbox One | 15063+ | v2.0.161.70
+v2.0.0-beta16 | UWP | 14393 | v2.0.160.0
+v2.0.0-beta16 | Xbox One | 14393 | v2.0.160.70
 v1.5.12 | UWP | 10586- | v1.5.12.0
 v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
@@ -39,10 +39,6 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-v2.0.0-beta16 | UWP | 15063+ | v2.0.161.0
-v2.0.0-beta16 | Xbox One | 15063+ | v2.0.161.70
-v2.0.0-beta16 | UWP | 14393 | v2.0.160.0
-v2.0.0-beta16 | Xbox One | 14393 | v2.0.160.70
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -81,9 +77,9 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 # Releases log
 ```
 ////////////////////
-Total Releases: 62 (+2)
+Total Releases: 63 (+1)
 Stable: 36 (+1)
-Public Beta: 19 (+1)
+Public Beta: 20
 Closed Beta: 7
 ////////////////////
 
@@ -93,12 +89,12 @@ Closed Beta: 7
 // NEWER -> OLDER //
 ////////////////////
 
-//////////////////// 8 RELEASES IN 2018 SO FAR
+//////////////////// 9 RELEASES IN 2018 SO FAR
 ...               //
 v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
 -- END OF BETA -- //
       ...         // Unknown number of beta builds
-v2.0.0-beta16     // xx.08.2018 PUBLIC BETA <- IN DEVELOPMENT
+v2.0.0-beta16     // 14.08.2018 PUBLIC BETA
 v2.0.0-beta15     // 15.07.2018 PUBLIC BETA
 v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
 v2.0.0-beta13     // 05.05.2018 PUBLIC BETA
