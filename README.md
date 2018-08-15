@@ -24,7 +24,7 @@ Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A 
 ### Builds in the Store
 
 Each package in the store has different build numbers (based on Platform and OS Version) than the official app version you see in the about section.<br>
-You can easily recognize the version you're using by looking at the table below.
+You can easily recognize the one you're using by looking at the table below.
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
@@ -39,6 +39,7 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
+... | ... | ... | ...
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
