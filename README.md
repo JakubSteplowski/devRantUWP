@@ -73,11 +73,11 @@ Name | Codename | Version | Build | devRant UWP v1 | devRant UWP v2
 N/A | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000/000000?text=+) `N/A anymore` → | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version`
-Creators Update | RS2 | 1703 | 15063 | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-Fall Creators Update | RS3 | 1709 | 16299 & 15254 | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
-April 2018 Update | RS4 | 1803 | 17134 | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-October 2018 Update | RS5 | 1809 | 17763 (TBA) | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-TBA 2019 Update | 19H1 | 1903 | TBA | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+Fall Creators Update | RS3 | 1709 | 16299 & 15254 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
+April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+October 2018 Update | RS5 | 1809 | 17763 (TBA) | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+TBA 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 ***
 
 # Changelog
