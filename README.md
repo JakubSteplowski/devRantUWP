@@ -78,7 +78,6 @@ Fall Creators Update | RS3 | 1709 | 16299 & 15254 | ![#b60205](https://placehold
 April 2018 Update | RS4 | 1803 | 17134 | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 October 2018 Update | RS5 | 1809 | 17763 (TBA) | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 TBA 2019 Update | 19H1 | 1903 | TBA | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-TBA 2019 Update | 19H3 | 1909 | TBA | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 ***
 
 # Changelog
