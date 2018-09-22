@@ -18,7 +18,7 @@ Thanks in advance! :)
 
 OS Version | Current | In Development | ETA
 ------------ | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta16** | TBA | TBA
+Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta16** | v2.0.0 | TBA
 Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
 
 ### Builds in the Store
@@ -39,7 +39,6 @@ v1.5.12 | Xbox One | 10586- | v1.5.12.70
 
 Version | Platform | OS Version | Build
 ------------ | ------------ | ------------ | ------------
-... | ... | ... | ...
 v2.0.0 | UWP | 15063+ | v2.0.1001.0
 v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
 v2.0.0 | UWP | 14393 | v2.0.1000.0
@@ -92,9 +91,8 @@ Closed Beta: 7
 
 //////////////////// 9 RELEASES IN 2018 SO FAR
 ...               //
-v2.0.0            // xx.xx.2018 <- IN DEVELOPMENT
--- END OF BETA -- //
-      ...         // Unknown number of beta builds
+v2.0.0            // xx.xx.xxxx <- IN DEVELOPMENT
+--END OF v2 BETA--//
 v2.0.0-beta16     // 14.08.2018 PUBLIC BETA
 v2.0.0-beta15     // 15.07.2018 PUBLIC BETA
 v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
@@ -117,6 +115,7 @@ v1.5.10           // 08.11.2017
 v2.0.0-beta3      // 08.11.2017 PUBLIC BETA
 v2.0.0-beta2      // 07.11.2017 PUBLIC BETA
 v2.0.0-beta       // 06.11.2017 PUBLIC BETA
+--v2 PUBLIC BETA--//
 v2.0.0-beta06     // 04.11.2017 CLOSED BETA
 v2.0.0-beta05     // 04.11.2017 CLOSED BETA
 v1.5.9            // 03.11.2017
@@ -125,6 +124,7 @@ v2.0.0-beta03     // 02.11.2017 CLOSED BETA
 v2.0.0-beta02     // 01.11.2017 CLOSED BETA
 v2.0.0-beta01     // 01.11.2017 CLOSED BETA
 v2.0.0-beta0      // 31.10.2017 CLOSED BETA
+--v2 CLOSED BETA--//
 v1.5.8            // 28.10.2017
 v1.5.7            // 06.10.2017
 v1.5.6            // 23.09.2017
@@ -160,9 +160,11 @@ v1.2.2            // 30.10.2016
 v1.2.1            // 29.10.2016
 v1.2.0            // 26.10.2016
 v1.0.0            // 12.10.2016
+--END OF v1 BETA--//
 v0.9.10-beta      // 28.06.2016 PUBLIC BETA
 v0.9.9-beta       // 18.06.2016 PUBLIC BETA
 v0.9.5-beta       // 21.05.2016 PUBLIC BETA
 v0.9.2-beta       // 18.05.2016 PUBLIC BETA
+--v1 PUBLIC BETA--//
 //  === 2016 ===  // ^
 ```
