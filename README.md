@@ -16,33 +16,36 @@ Thanks in advance! :)
 
 # Versions
 
-OS Version | Current | In Development | ETA
------------- | ------------ | ------------- | -------------
-Windows 10 Anniversary Update<br>and later<br>(14393, 15063, 16299, 17134+) | **v2.0.0-beta16** | v2.0.0 | TBA
-Windows 10 November Update<br>and earlier<br>(10240, 10586) | **v1.5.12** | N/A | N/A
-
 ### Builds in the Store
 
-Each package in the store has different build numbers (based on Platform and OS Version) than the official app version you see in the about section.<br>
+Each package in the store has different build numbers (based on the type of the device and the OS Version).<br>
 You can easily recognize the one you're using by looking at the table below.
 
-Version | Platform | OS Version | Build
------------- | ------------ | ------------ | ------------
-v2.0.0-beta16 | UWP | 15063+ | v2.0.161.0
-v2.0.0-beta16 | Xbox One | 15063+ | v2.0.161.70
-v2.0.0-beta16 | UWP | 14393 | v2.0.160.0
-v2.0.0-beta16 | Xbox One | 14393 | v2.0.160.70
-v1.5.12 | UWP | 10586- | v1.5.12.0
-v1.5.12 | Xbox One | 10586- | v1.5.12.70
+App Build  | App Version
+------------ | ------------
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | v1.5.12
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | v1.5.12
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | v2.0.0-beta16
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | v2.0.0-beta16
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | v2.0.0-beta16
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | v2.0.0-beta16
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.0` | v2.0.0
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.70` | v2.0.0
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | v2.0.0
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | v2.0.0
 
-### Upcoming builds
+OS Version  | Build | Current UWP | Upcoming UWP | Current Xbox One | Upcoming Xbox One 
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ 
+N/A | 10240 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
+November Update | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
+Anniversary Update | 14393 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.70` |
+Creators Update | 15063 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
+Fall Creators Update | 16299 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
+April 2018 Update | 17134 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
 
-Version | Platform | OS Version | Build
------------- | ------------ | ------------ | ------------
-v2.0.0 | UWP | 15063+ | v2.0.1001.0
-v2.0.0 | Xbox One | 15063+ | v2.0.1001.70
-v2.0.0 | UWP | 14393 | v2.0.1000.0
-v2.0.0 | Xbox One | 14393 | v2.0.1000.70
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable`<br>
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta`<br>
+![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta`
 
 # Requirements
 
@@ -50,8 +53,11 @@ v2.0.0 | Xbox One | 14393 | v2.0.1000.70
 PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
-Windows 10 builds 14393, 15063, 16299, 17134+ (**v2.0.0-beta16**)<br>
-Windows 10 builds 10240, 10586 (**v1.5.12**)<br>
+
+App Version | Windows 10 Builds
+------------ | ------------
+v2.0.0-beta16 | 14393, 15063, 16299, 17134+
+v1.5.12 | 10240, 10586
 
 **Other:**<br>
 Internet Connection<br>
