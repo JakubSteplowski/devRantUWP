@@ -80,96 +80,80 @@ TBA 2019 Update | 19H3 | 1909 | TBA | ![#b60205](https://placehold.it/15/b60205/
 You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/devRantUnofficial/release-notes/), but also in the `about` section of the app.
 
 # Releases log
-```
-////////////////////
-Total Releases: 63 (+1)
-Stable: 36 (+1)
-Public Beta: 20
-Closed Beta: 7
-////////////////////
 
-////////////////////
-// RELEASES LIST  //
-////////////////////
-// NEWER -> OLDER //
-////////////////////
+| Stable | Public Beta | Closed Beta | Total Releases |
+|     :---:      |     :---:      |     :---:      |     :---:      |  
+| 36 | 20 | 7 | 63 |
+| +1 |  |  | +1 |
 
-//////////////////// 9 RELEASES IN 2018 SO FAR
-...               //
-v2.0.0            // xx.xx.xxxx <- IN DEVELOPMENT
---END OF v2 BETA--//
-v2.0.0-beta16     // 14.08.2018 PUBLIC BETA
-v2.0.0-beta15     // 15.07.2018 PUBLIC BETA
-v2.0.0-beta14     // 21.05.2018 PUBLIC BETA
-v2.0.0-beta13     // 05.05.2018 PUBLIC BETA
-v2.0.0-beta12     // 03.05.2018 PUBLIC BETA
-v2.0.0-beta11     // 23.04.2018 PUBLIC BETA
-v2.0.0-beta10     // 22.04.2018 PUBLIC BETA
-v2.0.0-beta9      // 09.03.2018 PUBLIC BETA
-v2.0.0-beta8      // 12.02.2018 PUBLIC BETA
-//  === 2018 ===  // ^
+**Sorted**<br>
+Newer → Older
 
-//////////////////// 34 RELEASES IN 2017
-v2.0.0-beta7      // 04.12.2017 PUBLIC BETA
-v1.5.12           // 15.11.2017
-v2.0.0-beta6      // 15.11.2017 PUBLIC BETA
-v2.0.0-beta5      // 14.11.2017 PUBLIC BETA
-v2.0.0-beta4      // 13.11.2017 PUBLIC BETA
-v1.5.11           // 13.11.2017
-v1.5.10           // 08.11.2017
-v2.0.0-beta3      // 08.11.2017 PUBLIC BETA
-v2.0.0-beta2      // 07.11.2017 PUBLIC BETA
-v2.0.0-beta       // 06.11.2017 PUBLIC BETA
---v2 PUBLIC BETA--//
-v2.0.0-beta06     // 04.11.2017 CLOSED BETA
-v2.0.0-beta05     // 04.11.2017 CLOSED BETA
-v1.5.9            // 03.11.2017
-v2.0.0-beta04     // 03.11.2017 CLOSED BETA
-v2.0.0-beta03     // 02.11.2017 CLOSED BETA
-v2.0.0-beta02     // 01.11.2017 CLOSED BETA
-v2.0.0-beta01     // 01.11.2017 CLOSED BETA
-v2.0.0-beta0      // 31.10.2017 CLOSED BETA
---v2 CLOSED BETA--//
-v1.5.8            // 28.10.2017
-v1.5.7            // 06.10.2017
-v1.5.6            // 23.09.2017
-v1.5.5            // 05.09.2017
-v1.5.4            // 08.08.2017
-v1.5.3            // 27.06.2017
-v1.5.2            // 26.06.2017
-v1.5.1            // 22.06.2017
-v1.5.0            // 20.06.2017
-v1.4.4            // 09.06.2017
-v1.4.3            // 27.05.2017
-v1.4.2            // 24.05.2017
-v1.4.1            // 28.04.2017
-v1.4.0            // 26.04.2017
-v1.3.13           // 19.04.2017
-v1.3.12           // 10.01.2017
-//  === 2017 ===  // ^
-
-//////////////////// 20 RELEASES IN 2016
-v1.3.11           // 30.12.2016
-v1.3.10           // 28.12.2016
-v1.3.9            // 28.12.2016
-v1.3.8            // 21.11.2016
-v1.3.7            // 16.11.2016
-v1.3.6            // 16.11.2016
-v1.3.5            // 14.11.2016
-v1.3.4            // 13.11.2016
-v1.3.3            // 13.11.2016
-v1.3.2            // 05.11.2016
-v1.3.1            // 01.11.2016
-v1.3.0            // 31.10.2016
-v1.2.2            // 30.10.2016
-v1.2.1            // 29.10.2016
-v1.2.0            // 26.10.2016
-v1.0.0            // 12.10.2016
---END OF v1 BETA--//
-v0.9.10-beta      // 28.06.2016 PUBLIC BETA
-v0.9.9-beta       // 18.06.2016 PUBLIC BETA
-v0.9.5-beta       // 21.05.2016 PUBLIC BETA
-v0.9.2-beta       // 18.05.2016 PUBLIC BETA
---v1 PUBLIC BETA--//
-//  === 2016 ===  // ^
-```
+| № |  | Version | Release Date | Type | Status |
+|     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
+| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+| 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
+| 62 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta15 | 15.07.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 61 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta14 | 21.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 60 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta13 | 05.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 59 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` |v2.0.0-beta12 | 03.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 58 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta11 | 23.04.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 57 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta10 | 22.04.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 56 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta9 | 09.03.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 55 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta8 | 12.02.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+|  | |  | 2017 |  | |
+| 54 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta7 | 04.12.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 53 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.12 | 15.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
+| 52 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta6 | 15.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 51 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta5 | 14.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 50 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta4 | 13.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 49 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.11 | 13.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 48 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.10 | 08.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 47 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta3 | 08.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 46 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta2 | 07.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 45 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta | 06.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 44 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta06 | 04.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 43 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta05 | 04.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 42 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.9 | 03.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 41 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta04 | 03.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 40 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta03 | 02.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 39 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta02 | 01.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 38 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta01 | 01.11.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 37 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta0 | 31.10.2017 | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | |
+| 36 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.8 | 28.10.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 35 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.7 | 06.10.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 34 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.6 | 23.09.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 33 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.5 | 05.09.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 32 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.4 | 08.08.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 31 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.3 | 27.06.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 30 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.2 | 26.06.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 29 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.1 | 22.06.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 28 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.0 | 20.06.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 27 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.4.4 | 09.06.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 26 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.4.3 | 27.05.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 25 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.4.2 | 24.05.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 24 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.4.1 | 28.04.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 23 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.4.0 | 26.04.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 22 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.13 | 19.04.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 21 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.12 | 10.01.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+|  | |  | 2016 |  | |
+| 20 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.11 | 30.12.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 19 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.10 | 28.12.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 18 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.9 | 28.12.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 17 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.8 | 21.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 16 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.7 | 16.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 15 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.6 | 16.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 14 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.5 | 14.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 13 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.4 | 13.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 12 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.3 | 13.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 11 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.2 | 05.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 10 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.1 | 01.11.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 9 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.3.0 | 31.10.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 8 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.2.2 | 30.10.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 7 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.2.1 | 29.10.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 6 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.2.0 | 26.10.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 5 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.0.0 | 12.10.2016 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
+| 4 | ![#2c323b](https://placehold.it/15/2c323b/000000?text=+) `v0` | v0.9.10-beta | 28.06.2016 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 3 | ![#2c323b](https://placehold.it/15/2c323b/000000?text=+) `v0` | v0.9.9-beta | 18.06.2016 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 2 | ![#2c323b](https://placehold.it/15/2c323b/000000?text=+) `v0` | v0.9.5-beta | 21.05.2016 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
+| 1 | ![#2c323b](https://placehold.it/15/2c323b/000000?text=+) `v0` | v0.9.2-beta | 18.05.2016 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
