@@ -56,7 +56,7 @@ PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 App Version | Windows 10 Builds
 ------------ | ------------
-v2.0.0-beta16 | 14393, 15063, 16299, 17134+
+v2.0.0-beta16 | 14393, 15063, 16299, 17134, 17763+
 v1.5.12 | 10240, 10586
 
 **Other:**<br>
@@ -76,7 +76,7 @@ Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000
 Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 Fall Creators Update | RS3 | 1709 | 16299 & 15254 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
 April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-October 2018 Update | RS5 | 1809 | 17763 (TBA) | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+October 2018 Update | RS5 | 1809 | 17763 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 TBA 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 ***
 
