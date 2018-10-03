@@ -42,6 +42,7 @@ Anniversary Update | 14393 | ![#7847b1](https://placehold.it/15/7847b1/000000?te
 Creators Update | 15063 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
 Fall Creators Update | 16299 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
 April 2018 Update | 17134 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
+October 2018 Update | 17763 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
 
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable`<br>
 ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta`<br>
