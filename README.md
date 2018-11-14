@@ -36,7 +36,7 @@ App Build  | App Version
 
 OS Version  | Build | Current UWP | Upcoming UWP | Current Xbox One | Upcoming Xbox One 
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ 
-N/A | 10240 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
+Initial Release | 10240 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
 November Update | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
 Anniversary Update | 14393 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.70` |
 Creators Update | 15063 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
@@ -71,7 +71,7 @@ Windows 10 builds:
 
 Name | Codename | Version | Build | devRant UWP v1 | devRant UWP v2
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------
-N/A | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
+Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000/000000?text=+) `N/A anymore` → | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version`
 Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
