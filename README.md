@@ -1,6 +1,6 @@
 ![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
 # Official devRant unofficial UWP Issue Tracker
-![](https://img.shields.io/badge/Open-18-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-11-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-2-b60205.svg?style=flat) <br>
+![](https://img.shields.io/badge/Open-20-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-13-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-2-b60205.svg?style=flat) <br>
 ![](https://img.shields.io/badge/Closed-40-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-10-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-4-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-14-b60205.svg?style=flat)
 
 If you've found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
