@@ -1,5 +1,5 @@
-![](https://jakubsteplowski.com/other/devRant-Unofficial-2017Logo-black-100x100-transp.png)
-# Official devRant unofficial UWP Issue Tracker
+![](https://jakubsteplowski.com/other/devRant-Unofficial-2018Logo-black-100x100-transp.png)
+# Official devRant UWP (unofficial client) Issue Tracker
 ![](https://img.shields.io/badge/Open-18-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-13-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-0-b60205.svg?style=flat) <br>
 ![](https://img.shields.io/badge/Closed-43-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-11-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-4-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-16-b60205.svg?style=flat)
 
