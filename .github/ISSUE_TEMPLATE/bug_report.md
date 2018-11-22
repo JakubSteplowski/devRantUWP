@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Describe the issue
+about: Describe the issue that you've encountered
 
 ---
 
