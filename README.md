@@ -97,7 +97,7 @@ Newer → Older
 
 | № |  | Version | Release Date | Type | Status |
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
-| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Certification` |
 | 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
 | 62 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta15 | 15.07.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 | 61 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta14 | 21.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
