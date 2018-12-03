@@ -27,8 +27,6 @@ App Build  | App Version
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | v1.5.12
 ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | v2.0.0-beta16
 ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | v2.0.0-beta16
-![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | v2.0.0-beta16
-![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | v2.0.0-beta16
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.0` | v2.0.0
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.70` | v2.0.0
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | v2.0.0
@@ -39,10 +37,10 @@ OS Version  | Build | Current UWP | Upcoming UWP | Current Xbox One | Upcoming X
 Initial Release | 10240 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
 November Update | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | ![#000](https://placehold.it/15/000/000000?text=+) `N/A` |
 Anniversary Update | 14393 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1000.70` |
-Creators Update | 15063 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
-Fall Creators Update | 16299 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
-April 2018 Update | 17134 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
-October 2018 Update | 17763 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` |
+Creators Update | 15063 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` |
+Fall Creators Update | 16299 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` |
+April 2018 Update | 17134 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` |
+October 2018 Update | 17763 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | ![#000](https://placehold.it/15/323232/323232?text=+) `TBA` |
 
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable`<br>
 ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta`<br>
@@ -57,7 +55,8 @@ PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 App Version | Windows 10 Builds
 ------------ | ------------
-v2.0.0-beta16 | 14393, 15063, 16299, 17134, 17763+
+v2.0.0 | 15063, 16299, 17134, 17763+
+v2.0.0-beta16 | 14393
 v1.5.12 | 10240, 10586
 
 **Other:**<br>
@@ -75,9 +74,9 @@ Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000/000000?text=+) `N/A anymore` → | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version`
 Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-Fall Creators Update | RS3 | 1709 | 16299 & 15254 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
+Fall Creators Update | RS3 | 1709 | 16299 & 15254 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-October 2018 Update | RS5 | 1809 | 17763 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+October 2018 Update | RS5 | 1809 | 17763 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
 TBA 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
 ***
 
@@ -89,16 +88,16 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 
 | Stable | Public Beta | Closed Beta | Total Releases |
 |     :---:      |     :---:      |     :---:      |     :---:      |  
-| 36 | 20 | 7 | 63 |
-| +1 |  |  | +1 |
+| 37 | 20 | 7 | 64 |
+| |  |  | |
 
 **Sorted**<br>
 Newer → Older
 
 | № |  | Version | Release Date | Type | Status |
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
-| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Certification` |
-| 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
+| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
+| 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store (14393)` |
 | 62 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta15 | 15.07.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 | 61 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta14 | 21.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 | 60 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta13 | 05.05.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
@@ -109,7 +108,7 @@ Newer → Older
 | 55 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta8 | 12.02.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 |  | |  | 2017 |  | |
 | 54 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta7 | 04.12.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
-| 53 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.12 | 15.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
+| 53 | ![#fd9881](https://placehold.it/15/fd9881/000000?text=+) `v1` | v1.5.12 | 15.11.2017 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store (10586-)` |
 | 52 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta6 | 15.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 | 51 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta5 | 14.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
 | 50 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta4 | 13.11.2017 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
