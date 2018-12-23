@@ -69,7 +69,7 @@ Touch Screen (recommended`*`, not required)<br>
 `*`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
 Windows 10 builds:
 
-Name | Codename | Version | Build | v1 | v2 | v3
+Name | Code | Version | Build | v1 | v2 | v3
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
