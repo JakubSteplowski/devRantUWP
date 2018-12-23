@@ -74,11 +74,11 @@ Name | Code | Version | Build | v1 | v2 | v3
 Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Min Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000/000000?text=+) `N/A anymore` → | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Min Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
-Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-Fall Creators Update | RS3 | 1709 | 16299<br>15254 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
-October 2018 Update | RS5 | 1809 | 17763 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version`
-TBA 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported`
+Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
+Fall Creators Update | RS3 | 1709 | 16299<br>15254 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
+April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
+October 2018 Update | RS5 | 1809 | 17763 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
+TBA 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 ***
 
 # Changelog
