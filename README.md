@@ -90,14 +90,15 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 | Stable | Public Beta | Closed Beta | Total Releases |
 |     :---:      |     :---:      |     :---:      |     :---:      |  
 | 37 | 20 | 7 | 64 |
-| +1 |  |  | +1 |
+| +2 |  |  | +2 |
 
 **Sorted**<br>
 Newer → Older
 
 | № |  | Version | Release Date | Type | Status |
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
-| 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.1.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+| 66 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+| 65 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.1.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
 | 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
 | 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
 | 62 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta15 | 15.07.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
