@@ -69,8 +69,8 @@ Touch Screen (recommended`*`, not required)<br>
 `*`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
 Windows 10 builds:
 
-Name | Codename | Version | Build | devRant UWP v1 | devRant UWP v2
------------- | ------------ | ------------ | ------------ | ------------ | ------------
+Name | Codename | Version | Build | v1 | v2 | v3
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `Not Supported`
 Anniversary Update | RS1 | 1607 | 14393 | ![#000](https://placehold.it/15/000000/000000?text=+) `N/A anymore` → | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Minimum Version`
@@ -99,6 +99,7 @@ Newer → Older
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
 | 66 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
 | 65 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.1.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+|  | |  | 2018 |  | |
 | 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
 | 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
 | 62 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta15 | 15.07.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | |
