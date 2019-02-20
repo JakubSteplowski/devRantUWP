@@ -23,16 +23,11 @@ You can easily recognize the one you're using by looking at the table below.
 
 App Build  | App Version
 ------------ | ------------
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0` | v1.5.12
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | v1.5.12
-![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0` | v2.0.0-beta16
-![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70` | v2.0.0-beta16
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0` | v2.0.0
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | v2.0.0
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.0` | v2.1.0
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.70` | v2.1.0
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.0` | v2.1.0
-![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.70` | v2.1.0
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | v1.5.12
+![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.0`<br>![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.160.70`<br>![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.0`<br>![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `v2.0.161.70` | v2.0.0-beta16
+ | v2.0.0-beta16
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1001.70` | v2.0.0
+![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.70`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.70`<br> | v2.1.0
 
 OS Version  | Build | Current UWP | Upcoming UWP | Current Xbox | Upcoming Xbox 
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ 
@@ -57,7 +52,8 @@ PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 App Version | Windows 10 Builds
 ------------ | ------------
-v2.0.0-beta16 | 14393, 15063, 16299, 17134, 17763+
+v2.0.0 | 15063, 16299, 17134, 17763+
+v2.0.0-beta16 | 14393
 v1.5.12 | 10240, 10586
 
 **Other:**<br>
