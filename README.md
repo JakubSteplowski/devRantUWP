@@ -1,7 +1,7 @@
 ![](https://jakubsteplowski.com/other/devRant-Unofficial-2018Logo-black-100x100-transp.png)
 # Official devRant UWP (unofficial client) Issue Tracker
-![](https://img.shields.io/badge/Open-16-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-10-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-1-b60205.svg?style=flat) <br>
-![](https://img.shields.io/badge/Closed-46-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-14-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-4-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-16-b60205.svg?style=flat)
+![](https://img.shields.io/badge/Open-15-28a745.svg?style=flat) ![](https://img.shields.io/badge/Requested_Features-10-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Requested_Improvements-5-7ae13f.svg?style=flat) ![](https://img.shields.io/badge/Reported_Bugs-0-b60205.svg?style=flat) <br>
+![](https://img.shields.io/badge/Closed-47-cb2431.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Features-14-5319e7.svg?style=flat) ![](https://img.shields.io/badge/Implemented_Improvements-4-7ae13f.svg?style=flat)  ![](https://img.shields.io/badge/Fixed_Bugs-17-b60205.svg?style=flat)
 
 If you've found a **bug** or want to request a new **feature** for devRant unofficial UWP, just create a new issue.
 
@@ -97,11 +97,11 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 **Sorted**<br>
 Newer → Older
 
-| № |  | Version | Release Date | Type | Status |
+| № |  | Version | Release Date (dd.mm.yyyy) | Type | Status |
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
 | 67 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
 | 66 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0-beta0 | xx.xx.xxxx | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
-| 65 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.1.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
+| 65 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.1.0 | 20.02.2019 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Certification` |
 |  | |  | 2018 |  | |
 | 64 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0 | 01.12.2018 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | |
 | 63 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.0.0-beta16 | 14.08.2018 | ![#7847b1](https://placehold.it/15/7847b1/000000?text=+) `Public Beta` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store` |
