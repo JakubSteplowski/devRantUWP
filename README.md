@@ -18,10 +18,10 @@ Thanks in advance! :)
 
 ### Builds in the Store
 
-Each package in the store has different build numbers (based on the type of the device and the OS Version).<br>
+Each package in the store has different versions (based on the type of the device and the OS build).<br>
 You can easily recognize the one you're using by looking at the table below.
 
-App Build  | App Version
+Package Version | App Version
 ------------ | ------------
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v1.5.12.70` | v1.5.12
 ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1100.70`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.0`<br>![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `v2.0.1101.70`<br> | v2.1.0
