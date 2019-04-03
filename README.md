@@ -92,7 +92,7 @@ You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/d
 Newer → Older
 
 | № |  | Version | Release Date (dd.mm.yyyy) | Type | Status (OS Version) |
-|     :---:      |     :---:      |     :---:      |     :---:      | :---         | :---         |
+|     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
 | 68 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0 | xx.xx.xxxx | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
 | 67 | ![#e2be63](https://placehold.it/15/e2be63/000000?text=+) `v3` | v3.0.0-beta0 | xx.xx.xxxx | ![#402263](https://placehold.it/15/402263/000000?text=+) `Closed Beta` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `In Development` |
 | 66 | ![#ef465d](https://placehold.it/15/ef465d/000000?text=+) `v2` | v2.2.0 | 01.04.2019 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://placehold.it/15/0078d7/000000?text=+) `In the Store (1809)` |
