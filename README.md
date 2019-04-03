@@ -48,11 +48,11 @@ PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
 
-App Version | Windows 10 Builds
+App Version | Windows 10 Versions
 ------------ | ------------
-v2.2.0 | 17763+
-v2.1.0 | 14393, 15063, 16299, 17134
-v1.5.12 | 10240, 10586
+v2.2.0 | 1809+
+v2.1.0 | 1607, 1703, 1709, 1803
+v1.5.12 | 1507, 1511
 
 **Other:**<br>
 Internet Connection<br>
