@@ -72,7 +72,7 @@ Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae1
 Fall Creators Update | RS3 | 1709 | 16299<br>15254 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 April 2018 Update | RS4 | 1803 | 17134 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 October 2018 Update | RS5 | 1809 | 17763 | | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target Version` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
-April 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
+May 2019 Update | 19H1 | 1903 | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 TBA 2019 Update | 19H2 | 19?? | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 TBA 2020 Update | 20H1 | 20?? | TBA | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
 ***
