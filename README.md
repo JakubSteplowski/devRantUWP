@@ -68,7 +68,7 @@ Windows 10 builds:
 
 Name | Code | Version | Build | v1 | v2 | v3
 ------------ |     :---:      |     :---:      |     :---:      | ------------ | ------------ | ------------
-Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Min Version` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A`
+Initial Release | TH1 | 1507 | 10240 | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Min` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A`
 November Update | TH2 | 1511 | 10586 | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A`
 Anniversary Update | RS1 | 1607 | 14393 | ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) `Target` | ![#cbe13f](https://placehold.it/15/cbe13f/000000?text=+) `Min` | ![#b60205](https://placehold.it/15/b60205/000000?text=+) `N/A`
 Creators Update | RS2 | 1703 | 15063 | | ![#7ae13f](https://placehold.it/15/7ae13f/000000?text=+) `Supported` | ![#303030](https://placehold.it/15/303030/000000?text=+) `TBA`
