@@ -53,9 +53,6 @@ PC, Windows phone, Xbox One, Surface Hub, Microsoft HoloLens
 
 **OS:**<br>
 
-App Version | Windows 11 Versions
------------- | ------------
-v3.0.0 | ???
 
 App Version | Windows 10 Versions
 ------------ | ------------
@@ -70,13 +67,8 @@ Touch Screen (recommended`*`, not required)<br>
 ***
 
 `*`is just recommended, not required, you can use the app with other input devices (mouse, keyboard, xbox one controller, holographic gestures, etc.).<br><br>
-**Windows 11 builds:**
 
-Name | Code | Version | Build | v3
------------- |     :---:      |     :---:      |     :---:      | ------------ 
-Initial Release | ?? | ???? | 22000 | ![#5319e7](https://dummyimage.com/10x10/5319e7/000000?text=+) `Target` 
-
-**Windows 10 builds:**
+**Windows 10/11 builds:**
 
 Name | Code | Version | Build | v1 | v2 
 ------------ |     :---:      |     :---:      |     :---:      | ------------ | ------------ 
@@ -92,26 +84,24 @@ November 2019 Update | 19H2 | 1909 | 18363 | | ![#7ae13f](https://dummyimage.com
 May 2020 Update | 20H1 | 2004 | 19041 | | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Supported`
 October 2020 Update | 20H2 | 2009 | 19042 | | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Supported`
 May 2021 Update | 21H1 | 2104 | 19043 | | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Supported`
-??? 2021 Update | 21H2 | 210? | 22000 | | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Supported`
+All future updates | .... | .... | .... | | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Supported`
 ***
 
 # Changelog
 
-You can find the complete changelog [here](https://jakubsteplowski.com/en/apps/devRantUnofficial/release-notes/), but also in the `about` section of the app.
+You can find the complete changelog [here](https://jakubsteplow.ski/en/apps/devRantUWP/release-notes/), but also in the `about` section of the app.
 
 # Releases log
 
 | Stable | Public Beta | Closed Beta | Total Releases |
 |     :---:      |     :---:      |     :---:      |     :---:      |  
 | 39 | 20 | 7 | 66 |
-| +1 |  | | +1 |
 
 **Sorted**<br>
 Newer → Older
 
 | № |  | Version | Release Date (dd.mm.yyyy) | Type | Status (OS Version) |
 |     :---:      |     :---:      | :---         |     :---:      | :---         | :---         |
-| 67 | ![#e2be63](https://dummyimage.com/10x10/e2be63/000000?text=+) `v3` | v3.0.0 | xx.xx.xxxx | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Stable` | ![#cbe13f](https://dummyimage.com/10x10/cbe13f/000000?text=+) `In Development` |
 |  | |  | 2019 |  | |
 | 66 | ![#ef465d](https://dummyimage.com/10x10/ef465d/000000?text=+) `v2` | v2.2.0 | 01.04.2019 | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://dummyimage.com/10x10/0078d7/000000?text=+) `In the Store (1809+)` |
 | 65 | ![#ef465d](https://dummyimage.com/10x10/ef465d/000000?text=+) `v2` | v2.1.0 | 20.02.2019 | ![#7ae13f](https://dummyimage.com/10x10/7ae13f/000000?text=+) `Stable` | ![#0078d7](https://dummyimage.com/10x10/0078d7/000000?text=+) `In the Store (1607 - 1803)` |
