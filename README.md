@@ -89,7 +89,7 @@ All future updates | .... | .... | .... | | ![#7ae13f](https://dummyimage.com/10
 
 # Changelog
 
-You can find the complete changelog [here](https://jakubsteplow.ski/en/apps/devRantUWP/release-notes/), but also in the `about` section of the app.
+You can find the complete changelog in the `about` section of the app.
 
 # Releases log
 
